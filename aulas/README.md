@@ -1,0 +1,1 @@
+# Curso de Introdução a Python oferecido pelo CEPEDI, Ilhéus-BA
